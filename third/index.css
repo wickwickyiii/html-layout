@@ -1,0 +1,36 @@
+.navbar {
+    background-color: #CDCDCC;
+    height: 50px;
+    width: 100%;
+    padding: 30px;
+}
+
+.navblue {
+    float: left;
+    background-color: blue;
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    height: 55px;
+    width: 50px;
+}
+
+#blue {
+    background-color: #4A90E2;
+}
+
+#ocean {
+    background-color: #50E3C2;
+}
+
+#lime {
+    background-color: #B8E986;
+}
+
+#yellow {
+    background-color: #F8E71C;
+}
+
+p {
+    padding: 50px;
+}
